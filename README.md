@@ -21,10 +21,10 @@ You can flip the items to sea which is which and if you find two same items they
 
 🛠️ Technologies                                                                            
 
-**Xml** - for building ui.
-**MVVM** - for pattern.
-**Animation** - for flipping items, exlosion effect and falling leafes.
-**Shared preferences** - for saving result.
+**Xml** - for building ui.                                                        
+**MVVM** - for pattern.                                                                
+**Animation** - for flipping items, exlosion effect and falling leafes.                                       
+**Shared preferences** - for saving result.                                                 
 
 #
 
