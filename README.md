@@ -1,7 +1,7 @@
 # 🌟 Memory Game
 Find the same pieaces and win the game
 #
-# 📲 [Download](https://github.com/Theultimatecreator/Anorbank/releases/download/v1.0/app-debug.apk)
+# 📲 [Download](https://github.com/Theultimatecreator/memory-game/releases/download/v1.0/app-debug.apk)
 
 
 **📸 Screenshots**                                                                         
@@ -30,7 +30,7 @@ You can flip the items to sea which is which and if you find two same items they
 
 💾 Installation
 
-1. Download the APK from the [link above](https://github.com/Theultimatecreator/Anorbank/releases/download/v1.0/app-debug.apk)
+1. Download the APK from the [link above](https://github.com/Theultimatecreator/memory-game/releases/download/v1.0/app-debug.apk)
 2. Open the APK on your Android device.                                                                  
 3. Allow installation from unknown sources if prompted.                                          
 4. Open the app and enjoy!                                                                          
